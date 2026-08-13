@@ -61,7 +61,7 @@ Promote deliberately: state when you need to resume, policy when it generalizes,
 
 ## The talk
 
-This repo backs a 5-minute lightning talk, **"The Context Window Ate My Steering File"** (CONFERENCE NAME, MONTH 2026).
+This repo backs a 5-minute lightning talk, **"The Context Window Ate My Steering File"** (Data Con LA, August 22 2026).
 
 - [`slide/slide.typ`](slide/slide.typ) — the one slide, in [Typst](https://typst.app) (`typst compile slide.typ slide.pdf`)
 - [`slide/slide.pdf`](slide/slide.pdf) — compiled
@@ -82,7 +82,7 @@ Every claim above is sourced in [`outline.md`](outline.md). The load-bearing one
 
 ## Acknowledgements
 
-Researched, workshopped, and typeset in conversation with Claude (Anthropic); all claims verified against the primary sources listed above.
+Researched, workshopped, and typeset in conversation with Claude Fable 5 (Anthropic) - High Effort; all claims verified against the primary sources listed above.
 
 ## Contributing
 
